@@ -1,0 +1,1000 @@
+9780000000001,Fundamentos de Programacion,Ana Lopez,12
+9780000000002,Estructuras de Datos,Carlos Perez,8
+9780000000003,Algoritmos Modernos,Laura Garcia,15
+9780000000004,Bases de Datos Relacionales,Miguel Torres,7
+9780000000005,Programacion en C,Juan Martinez,10
+9780000000006,Programacion en C++,Sofia Ramirez,9
+9780000000007,Introduccion a Java,Diego Castro,11
+9780000000008,Desarrollo Web Moderno,Elena Ruiz,6
+9780000000009,Sistemas Operativos,Ricardo Gomez,4
+9780000000010,Redes de Computadoras,Patricia Vega,13
+9780000000011,Ingenieria de Software,Luis Herrera,8
+9780000000012,Patrones de Diseno,Ernesto Molina,5
+9780000000013,Arquitectura de Computadores,Cecilia Flores,7
+9780000000014,Inteligencia Artificial,Daniel Navarro,14
+9780000000015,Aprendizaje Automatico,Andrea Rojas,9
+9780000000016,Ciencia de Datos,Fernando Silva,12
+9780000000017,Analisis de Sistemas,Mariana Diaz,6
+9780000000018,Programacion Funcional,Roberto Leon,5
+9780000000019,Compiladores Modernos,Natalia Cruz,3
+9780000000020,Seguridad Informatica,Oscar Medina,10
+9780000000021,Criptografia Aplicada,Ana Lopez,7
+9780000000022,Desarrollo Movil,Carlos Perez,11
+9780000000023,Android Avanzado,Laura Garcia,9
+9780000000024,iOS Profesional,Miguel Torres,8
+9780000000025,Python para Todos,Juan Martinez,15
+9780000000026,JavaScript Esencial,Sofia Ramirez,14
+9780000000027,Node.js Practico,Diego Castro,6
+9780000000028,React desde Cero,Elena Ruiz,10
+9780000000029,Angular Profesional,Ricardo Gomez,5
+9780000000030,Vue.js Completo,Patricia Vega,7
+9780000000031,Docker y Contenedores,Luis Herrera,12
+9780000000032,Kubernetes en Accion,Ernesto Molina,4
+9780000000033,Computacion en la Nube,Cecilia Flores,11
+9780000000034,AWS para Principiantes,Daniel Navarro,8
+9780000000035,Azure Practico,Andrea Rojas,6
+9780000000036,Google Cloud Platform,Fernando Silva,5
+9780000000037,DevOps Moderno,Mariana Diaz,13
+9780000000038,Testing de Software,Roberto Leon,7
+9780000000039,Pruebas Automatizadas,Natalia Cruz,8
+9780000000040,Metodologias Agiles,Oscar Medina,10
+9780000000041,Scrum y Kanban,Ana Lopez,9
+9780000000042,Gestion de Proyectos,Carlos Perez,12
+9780000000043,UML para Analistas,Laura Garcia,4
+9780000000044,Diseno Orientado a Objetos,Miguel Torres,11
+9780000000045,Linux para Administradores,Juan Martinez,7
+9780000000046,Bash y Automatizacion,Sofia Ramirez,5
+9780000000047,PowerShell Esencial,Diego Castro,8
+9780000000048,Programacion Concurrente,Elena Ruiz,10
+9780000000049,Sistemas Distribuidos,Ricardo Gomez,6
+9780000000050,Microservicios Modernos,Patricia Vega,13
+9780000000051,Fundamentos de Matematicas,Luis Herrera,14
+9780000000052,Algebra Lineal Aplicada,Ernesto Molina,9
+9780000000053,Calculo Diferencial,Cecilia Flores,8
+9780000000054,Calculo Integral,Daniel Navarro,7
+9780000000055,Estadistica Basica,Andrea Rojas,10
+9780000000056,Probabilidad Aplicada,Fernando Silva,11
+9780000000057,Matematica Discreta,Mariana Diaz,5
+9780000000058,Investigacion Operativa,Roberto Leon,6
+9780000000059,Optimizacion de Sistemas,Natalia Cruz,9
+9780000000060,Simulacion Computacional,Oscar Medina,4
+9780000000061,Fisica para Ingenieros,Ana Lopez,12
+9780000000062,Electronica Digital,Carlos Perez,8
+9780000000063,Microcontroladores Modernos,Laura Garcia,7
+9780000000064,Internet de las Cosas,Miguel Torres,5
+9780000000065,Robotica Basica,Juan Martinez,10
+9780000000066,Robotica Avanzada,Sofia Ramirez,3
+9780000000067,Vision por Computador,Diego Castro,6
+9780000000068,Procesamiento de Imagenes,Elena Ruiz,8
+9780000000069,Analisis Numerico,Ricardo Gomez,11
+9780000000070,Computacion Cientifica,Patricia Vega,7
+9780000000071,Big Data en Accion,Luis Herrera,14
+9780000000072,Hadoop Practico,Ernesto Molina,5
+9780000000073,Spark para Analistas,Cecilia Flores,10
+9780000000074,Data Warehouse,Daniel Navarro,6
+9780000000075,Mineria de Datos,Andrea Rojas,8
+9780000000076,Business Intelligence,Fernando Silva,9
+9780000000077,Analitica Predictiva,Mariana Diaz,7
+9780000000078,Deep Learning Moderno,Roberto Leon,12
+9780000000079,Redes Neuronales,Natalia Cruz,11
+9780000000080,Procesamiento de Lenguaje Natural,Oscar Medina,4
+9780000000081,Historia Universal,Ana Lopez,13
+9780000000082,Historia de America,Carlos Perez,6
+9780000000083,Filosofia Clasica,Laura Garcia,5
+9780000000084,Etica Profesional,Miguel Torres,8
+9780000000085,Psicologia General,Juan Martinez,9
+9780000000086,Sociologia Moderna,Sofia Ramirez,7
+9780000000087,Economia Basica,Diego Castro,10
+9780000000088,Finanzas Personales,Elena Ruiz,12
+9780000000089,Marketing Digital,Ricardo Gomez,11
+9780000000090,Administracion de Empresas,Patricia Vega,6
+9780000000091,Liderazgo Efectivo,Luis Herrera,5
+9780000000092,Comunicacion Empresarial,Ernesto Molina,8
+9780000000093,Negociacion y Ventas,Cecilia Flores,9
+9780000000094,Emprendimiento Tecnologico,Daniel Navarro,7
+9780000000095,Innovacion Empresarial,Andrea Rojas,10
+9780000000096,Gestion del Talento,Fernando Silva,4
+9780000000097,Logistica Moderna,Mariana Diaz,11
+9780000000098,Comercio Internacional,Roberto Leon,6
+9780000000099,Transformacion Digital,Natalia Cruz,12
+9780000000100,Estrategia Corporativa,Oscar Medina,8
+9780000000101,Fundamentos de Programacion Orientada a Objetos,Alberto Nuñez,9
+9780000000102,Diseno de Algoritmos Eficientes,Veronica Salas,11
+9780000000103,Estructuras Dinamicas de Datos,Hector Paredes,7
+9780000000104,Teoria de la Computacion,Monica Valdez,5
+9780000000105,Automatas y Lenguajes Formales,Julio Barrera,8
+9780000000106,Programacion Generica en C++,Teresa Campos,10
+9780000000107,Principios de Bases de Datos Distribuidas,Raul Benitez,6
+9780000000108,Sistemas de Informacion Empresarial,Claudia Mendoza,12
+9780000000109,Desarrollo de APIs REST,Gabriel Fuentes,9
+9780000000110,Arquitecturas Basadas en Eventos,Silvia Contreras,4
+9780000000111,Computacion Paralela y Concurrente,Esteban Aguirre,8
+9780000000112,Tecnicas Avanzadas de Depuracion,Lucia Villanueva,7
+9780000000113,Programacion de Videojuegos 2D,Marco Velasco,10
+9780000000114,Programacion de Videojuegos 3D,Paola Cordero,5
+9780000000115,Motores Graficos Modernos,Rene Zamora,6
+9780000000116,Diseno de Interfaces Interactivas,Karina Acosta,11
+9780000000117,Experiencia de Usuario Aplicada,Victor Galindo,8
+9780000000118,Accesibilidad en Aplicaciones Web,Nora Cifuentes,9
+9780000000119,Introduccion a GraphQL,Cesar Villalba,4
+9780000000120,Servicios Web Escalables,Ines Robles,12
+9780000000121,Analisis y Diseno de Requisitos,Javier Coronel,7
+9780000000122,Documentacion Tecnica Profesional,Alicia Escobar,10
+9780000000123,Control de Versiones con Git,Bruno Fajardo,13
+9780000000124,Integracion Continua Moderna,Diana Peralta,6
+9780000000125,Entrega Continua para Equipos,Samuel Quiroga,5
+9780000000126,Monitoreo de Sistemas en Produccion,Elisa Montoya,9
+9780000000127,Observabilidad para Aplicaciones,Pedro Tellez,7
+9780000000128,Ingenieria de Confiabilidad de Sitios,Rosa Mena,8
+9780000000129,Automatizacion de Infraestructura,Tomas Carrillo,11
+9780000000130,Terraform desde Cero,Yolanda Pizarro,6
+9780000000131,Administracion Avanzada de Linux,Emilio Rosales,10
+9780000000132,Redes Definidas por Software,Maribel Ortega,4
+9780000000133,Protocolos Modernos de Internet,Fabian Soto,8
+9780000000134,Seguridad en Redes Empresariales,Lorena Caballero,12
+9780000000135,Analisis de Malware,Gerardo Espinoza,5
+9780000000136,Hacking Etico Profesional,Vanessa Delgado,9
+9780000000137,Respuesta a Incidentes de Seguridad,Ruben Alvarado,7
+9780000000138,Forensia Digital Aplicada,Patricia Sandoval,6
+9780000000139,Gestion de Riesgos Tecnologicos,Mauricio Lozano,10
+9780000000140,Gobierno de TI para Organizaciones,Camila Benavides,8
+9780000000141,Fundamentos de Blockchain,Ignacio Cabrera,11
+9780000000142,Contratos Inteligentes Practicos,Beatriz Montero,4
+9780000000143,Aplicaciones Descentralizadas Modernas,Andres Ledesma,7
+9780000000144,Criptoeconomia para Ingenieros,Daniela Ponce,5
+9780000000145,Modelado de Procesos de Negocio,Julian Arce,9
+9780000000146,Arquitectura Empresarial Integral,Mirta Salgado,8
+9780000000147,Transformacion Organizacional Digital,Oscar Cedeño,12
+9780000000148,Analisis de Procesos Operativos,Gloria Valencia,6
+9780000000149,Fundamentos de Telecomunicaciones,Ricardo Monroy,10
+9780000000150,Sistemas Inalambricos Modernos,Alejandra Prieto,7
+9780000000151,Redes 5G y Nuevas Tecnologias,Cristian Solis,9
+9780000000152,Computacion Ubicua Aplicada,Norma Figueroa,4
+9780000000153,Dispositivos Embebidos Inteligentes,Eduardo Villarroel,8
+9780000000154,Analisis de Señales Digitales,Liliana Moya,11
+9780000000155,Procesamiento Digital de Audio,Gonzalo Caceres,6
+9780000000156,Multimedia Interactiva Avanzada,Adriana Valerio,5
+9780000000157,Animacion por Computadora,Leonardo Pino,7
+9780000000158,Realidad Virtual Inmersiva,Catalina Bravo,10
+9780000000159,Realidad Aumentada Aplicada,Sergio Varela,8
+9780000000160,Diseno de Sistemas Ciberfisicos,Olga Santamaria,9
+9780000000161,Metodos Cuantitativos para Ingenieria,Ramon Villagra,6
+9780000000162,Modelos Matematicos Aplicados,Teresa Quintana,12
+9780000000163,Series Temporales y Pronosticos,Hugo Carranza,7
+9780000000164,Inferencia Estadistica Moderna,Noelia Fuentes,11
+9780000000165,Analisis Multivariado de Datos,Victorina Campos,5
+9780000000166,Metodos Monte Carlo,Alfonso Maturana,8
+9780000000167,Optimizacion Combinatoria,Raquel Zambrano,10
+9780000000168,Teoria de Colas Aplicada,Martin Espitia,4
+9780000000169,Investigacion de Operaciones Avanzada,Daniel Vera,9
+9780000000170,Modelos de Simulacion Discreta,Sandra Orellana,6
+9780000000171,Ingenieria Economica Aplicada,Cesarina Rivas,8
+9780000000172,Gestion Financiera para Proyectos,Ernesto Tapia,7
+9780000000173,Evaluacion de Inversiones Tecnologicas,Monica Serrano,10
+9780000000174,Costos y Presupuestos de TI,Gustavo Barrientos,5
+9780000000175,Planeacion Estrategica Empresarial,Veronica Ugarte,9
+9780000000176,Analisis Competitivo de Mercados,Felipe Santacruz,8
+9780000000177,Marketing Basado en Datos,Jimena Escudero,11
+9780000000178,Comercio Electronico Profesional,Roberto Carvajal,6
+9780000000179,Experiencia del Cliente Digital,Amanda Latorre,7
+9780000000180,Estrategias Omnicanal Modernas,Nicolas Olmedo,12
+9780000000181,Historia de la Ciencia y Tecnologia,Marina Velez,5
+9780000000182,Pensamiento Critico Contemporaneo,Horacio Mella,9
+9780000000183,Antropologia de la Innovacion,Silvana Trujillo,7
+9780000000184,Etica de la Inteligencia Artificial,German Patiño,10
+9780000000185,Filosofia de la Tecnologia,Carolina Esquivel,6
+9780000000186,Sociedad Digital y Cultura,Arturo Cifuentes,8
+9780000000187,Economia de Plataformas Digitales,Paula Villarroel,11
+9780000000188,Psicologia Cognitiva Aplicada,Dario Castañeda,4
+9780000000189,Neurociencia para el Aprendizaje,Miriam Quezada,9
+9780000000190,Metodologias de Investigacion Cientifica,Rafael Bustos,7
+9780000000191,Redaccion Academica Profesional,Clara Pinto,8
+9780000000192,Comunicacion Cientifica Efectiva,Josefina Cuellar,6
+9780000000193,Educacion Virtual y Tecnologia,Luisina Herrera,10
+9780000000194,Diseno Instruccional Digital,Pablo Mieres,5
+9780000000195,Aprendizaje Adaptativo Moderno,Valeria Cardenas,9
+9780000000196,Tecnologias Emergentes en Educacion,Sebastian Pardo,7
+9780000000197,Innovacion en Entornos de Aprendizaje,Daniela Reinoso,8
+9780000000198,Laboratorios Virtuales Interactivos,Francisco Ocampo,11
+9780000000199,Analitica del Aprendizaje,Melisa Villafuerte,6
+9780000000200,Gestión del Conocimiento Organizacional,Hernan Godoy,10
+9780000000201,Fundamentos de Computacion Cuantica,Adrian Valenzuela,8
+9780000000202,Algoritmos Cuanticos Aplicados,Mariela Castaño,6
+9780000000203,Criptografia Postcuantica,Nicolas Barragan,11
+9780000000204,Introduccion a los Gemelos Digitales,Estela Monroy,7
+9780000000205,Ingenieria de Plataformas Modernas,Raul Pineda,9
+9780000000206,Sistemas Adaptativos Inteligentes,Carmen Villarroel,5
+9780000000207,Arquitectura Hexagonal en Practica,Brenda Escalante,10
+9780000000208,Domain Driven Design Aplicado,Ignacio Fuentes,8
+9780000000209,Clean Architecture Profesional,Mateo Cornejo,12
+9780000000210,Refactorizacion de Codigo Heredado,Julia Zamudio,4
+9780000000211,Programacion Reactiva Moderna,Felix Arrieta,9
+9780000000212,Patrones de Integracion Empresarial,Olivia Pizarro,7
+9780000000213,Mensajeria Asincrona Avanzada,Ricardo Bustamante,6
+9780000000214,Apache Kafka para Sistemas Distribuidos,Cecilia Aranda,11
+9780000000215,Procesamiento de Eventos en Tiempo Real,Esteban Riquelme,8
+9780000000216,Bases de Datos NoSQL Practicas,Sandra Villaseñor,10
+9780000000217,Modelado de Datos Escalable,Victor Montalvo,5
+9780000000218,MongoDB para Desarrolladores,Alejandra Noriega,7
+9780000000219,Cassandra en Produccion,Fernando Arceo,9
+9780000000220,Redis y Almacenamiento en Memoria,Lorena Valadez,6
+9780000000221,Ingenieria de Datos Moderna,Cristobal Cordero,12
+9780000000222,ETL y Pipelines de Datos,Paola Benitez,8
+9780000000223,Gestion de Metadatos Empresariales,Ramon Figueroa,4
+9780000000224,Calidad de Datos en Organizaciones,Silvia Camacho,11
+9780000000225,Lagos de Datos y Analitica,Hector Zepeda,7
+9780000000226,Gobernanza de Datos Corporativa,Marina Solano,10
+9780000000227,Visualizacion de Datos Avanzada,Daniel Santillan,9
+9780000000228,Storytelling con Datos,Carla Murillo,5
+9780000000229,Tableros Ejecutivos Efectivos,Rodrigo Sepulveda,8
+9780000000230,Power BI Profesional,Vanesa Quintero,6
+9780000000231,Tableau para Analistas,Julio Esquivel,11
+9780000000232,Analisis Exploratorio de Datos,Monica Pacheco,7
+9780000000233,Modelos Predictivos Empresariales,Alberto Vaca,9
+9780000000234,Aprendizaje Supervisado Aplicado,Elisa Duarte,8
+9780000000235,Aprendizaje No Supervisado Moderno,Cesar Valdivia,12
+9780000000236,Sistemas de Recomendacion Inteligentes,Nadia Sarmiento,4
+9780000000237,Analisis de Sentimientos Digitales,Tomás Cifuentes,10
+9780000000238,Vision Artificial para la Industria,Laura Villagomez,6
+9780000000239,Deteccion de Objetos en Imagenes,Andres Maturino,7
+9780000000240,Reconocimiento Facial Moderno,Patricia Roldan,11
+9780000000241,Computacion Edge Aplicada,Fabio Contreras,8
+9780000000242,Sistemas Autonomos Inteligentes,Rebeca Ocaña,5
+9780000000243,Navegacion Robotica Avanzada,Emiliano Tovar,9
+9780000000244,Sensores Inteligentes para IoT,Anais Patiño,10
+9780000000245,Protocolos de Comunicacion Industrial,Gonzalo Reinoso,7
+9780000000246,Industria 4.0 y Automatizacion,Marcela Treviño,12
+9780000000247,Control Automatico de Procesos,Cristian Villatoro,6
+9780000000248,Sistemas SCADA Modernos,Veronica Chacon,8
+9780000000249,Instrumentacion Industrial Digital,Humberto Aguilera,4
+9780000000250,Eficiencia Energetica Tecnologica,Paula Sandino,9
+9780000000251,Energias Renovables Inteligentes,Bruno Santoyo,11
+9780000000252,Redes Electricas del Futuro,Daniela Alcocer,5
+9780000000253,Movilidad Electrica Sostenible,Gerardo Tabares,7
+9780000000254,Ingenieria Ambiental Aplicada,Luciana Becerra,8
+9780000000255,Modelado Climatico Computacional,Ricardo Almanza,10
+9780000000256,Analisis Espacial con SIG,Maribel Olivares,6
+9780000000257,Geomatica y Teledeteccion,Fernan Villanueva,9
+9780000000258,Ciudades Inteligentes Conectadas,Claudia Benavente,12
+9780000000259,Planificacion Urbana Digital,Santiago Perdomo,4
+9780000000260,Tecnologia para Gobiernos Digitales,Elsa Cardenal,7
+9780000000261,Transformacion del Sector Publico,Mario Villafañe,8
+9780000000262,Servicios Digitales Ciudadanos,Rocio Altamirano,10
+9780000000263,Transparencia y Datos Abiertos,Alonso Terrazas,6
+9780000000264,Ciberseguridad en Infraestructuras Criticas,Yolanda Verdugo,11
+9780000000265,Proteccion de Sistemas Industriales,Patricio Arguello,5
+9780000000266,Continuidad Operativa Empresarial,Lina Casanova,9
+9780000000267,Recuperacion ante Desastres Informaticos,Rene Olmeda,7
+9780000000268,Centros de Datos Modernos,Camilo Barrientos,8
+9780000000269,Virtualizacion de Infraestructura,Natalia Ordaz,12
+9780000000270,Almacenamiento Empresarial Escalable,Oscar Villagran,4
+9780000000271,Administracion de Servidores Linux,Diana Viveros,10
+9780000000272,Sistemas Unix Avanzados,Emilio Barrera,6
+9780000000273,Kernel y Arquitectura de Sistemas,Aurora Segura,9
+9780000000274,Desarrollo de Drivers Modernos,Hector Mijares,7
+9780000000275,Compilacion y Optimizacion de Codigo,Catalina Montalban,11
+9780000000276,Ingenieria de Lenguajes de Programacion,Saul Cifuentes,8
+9780000000277,Analisis Estatico de Software,Jimena Urrutia,5
+9780000000278,Verificacion Formal de Sistemas,Pablo Quintanilla,10
+9780000000279,Model Checking en Practica,Raquel Arredondo,6
+9780000000280,Sistemas de Tiempo Real,Felipe Mardones,9
+9780000000281,Desarrollo de Software Embebido,Teresa Montalvo,7
+9780000000282,Arquitecturas ARM Modernas,Ruben Farias,8
+9780000000283,Optimizacion para Dispositivos Moviles,Noemi Arce,12
+9780000000284,Computacion de Alto Rendimiento,Victor Corral,4
+9780000000285,Programacion con GPU,Gloria Menares,11
+9780000000286,CUDA para Cientificos,Joaquin Varela,5
+9780000000287,Simulaciones Cientificas Escalables,Elena Bustillos,8
+9780000000288,Modelado Molecular Computacional,Andres Villacis,10
+9780000000289,Bioinformatica Moderna,Patricia Escobedo,6
+9780000000290,Genomica Computacional Aplicada,Rodolfo Mayorga,9
+9780000000291,Analisis de Secuencias Biologicas,Miranda Salvatierra,7
+9780000000292,Medicina Basada en Datos,Luisana Paredes,11
+9780000000293,Tecnologia e Innovacion en Salud,Cesar Bencomo,5
+9780000000294,Sistemas Hospitalarios Digitales,Monserrat Carpio,8
+9780000000295,Telemedicina y Atencion Remota,Fabian Ulloa,12
+9780000000296,Dispositivos Medicos Inteligentes,Karen Villarroya,4
+9780000000297,Ingenieria Biomedica Aplicada,Raul Mendoza,9
+9780000000298,Procesamiento de Señales Biomedicas,Valeria Escobar,7
+9780000000299,Analisis Clinico Computacional,Gabriel Meneses,10
+9780000000300,Innovacion Tecnologica en Salud,Silvana Renteria,6
+9780000000301,Fundamentos de Robotica Colaborativa,Alejandro Carrasco,8
+9780000000302,Automatizacion Industrial Inteligente,Claudia Villanueva,7
+9780000000303,Sistemas Ciberfisicos Integrados,Victor Palma,10
+9780000000304,Inteligencia Artificial en Manufactura,Isabel Rojas,6
+9780000000305,Visión Artificial Industrial,Carlos Bustamante,9
+9780000000306,Control Avanzado de Procesos,Maria Fernanda Soto,5
+9780000000307,Simulacion de Sistemas Industriales,Felipe Calderon,8
+9780000000308,Digital Twins en Ingenieria,Monica Paredes,11
+9780000000309,Integracion de Sensores y Actuadores,Ricardo Molina,7
+9780000000310,Redes Industriales Modernas,Sofia Aguirre,10
+9780000000311,Protocolos de Comunicacion en PLC,Diego Zamudio,6
+9780000000312,Automatizacion de Plantas Electricas,Andrea Figueroa,9
+9780000000313,Industria 4.0 y Transformacion Digital,Javier Olivares,5
+9780000000314,Monitorizacion Remota de Sistemas,Patricia Valencia,8
+9780000000315,Prediccion de Mantenimiento Industrial,Hector Araya,11
+9780000000316,Analitica de Sensores Industriales,Lorena Marquez,7
+9780000000317,Optimización de Procesos de Manufactura,Raul Vergara,9
+9780000000318,Ingenieria de Produccion Moderna,Daniela Cordova,6
+9780000000319,Sistemas SCADA Distribuidos,Camilo Herrera,10
+9780000000320,Seguridad Funcional en Sistemas,Estela Bravo,8
+9780000000321,Ciberseguridad Industrial Avanzada,Gonzalo Escobar,12
+9780000000322,Proteccion de Infraestructuras Criticas,Valentina Rojas,5
+9780000000323,Normas y Estandares Industriales,Fabian Correa,9
+9780000000324,Calidad y Mejora Continua,Monica Vega,7
+9780000000325,Six Sigma en Ingenieria,Raul Jimenez,10
+9780000000326,Lean Manufacturing Practico,Alejandra Cuevas,6
+9780000000327,Metrologia Industrial Aplicada,Felipe Carrillo,8
+9780000000328,Automatizacion de Logistica,Carolina Palacios,11
+9780000000329,Robots Colaborativos en Produccion,Mauricio Medina,7
+9780000000330,Inteligencia Artificial en Robótica,Claudia Marroquin,9
+9780000000331,Sistemas de Transporte Automatizados,Andres Villanueva,6
+9780000000332,Almacenamiento Automatizado y AGV,Daniela Rivas,10
+9780000000333,Programacion de PLC Avanzada,Sebastian Paredes,8
+9780000000334,Redes de Comunicacion Industrial,Hector Torres,5
+9780000000335,Control Distribuido de Procesos,Camila Gutierrez,7
+9780000000336,Simulacion de Flujos de Produccion,Felipe Santillan,9
+9780000000337,Digital Twin para Fabricas,Valeria Salazar,6
+9780000000338,Analitica Predictiva en Produccion,Matias Bravo,10
+9780000000339,Ingenieria de Mantenimiento,Carolina Duarte,8
+9780000000340,Optimización Energética Industrial,Esteban Olivares,12
+9780000000341,Eficiencia Operacional de Plantas,Lorena Pizarro,5
+9780000000342,Industria Inteligente y Sostenible,Camilo Montero,9
+9780000000343,Innovacion Tecnologica en Fabricas,Isabel Villalobos,7
+9780000000344,Automatizacion de Procesos Quimicos,Julio Ramirez,10
+9780000000345,Seguridad en Plantas de Produccion,Mariana Torres,6
+9780000000346,Normativa Industrial Internacional,Alejandra Latorre,8
+9780000000347,Control de Calidad Automatizado,Hector Fuentes,11
+9780000000348,Analisis de Productividad Industrial,Ricardo Arce,7
+9780000000349,Planificacion y Programacion de Produccion,Sofia Monroy,9
+9780000000350,Ingenieria de Proyectos Industriales,Daniel Villaseca,6
+9780000000351,Sistemas de Manufactura Flexible,Claudia Rojas,10
+9780000000352,Robotica Movil en Plantas Industriales,Andres Guzman,8
+9780000000353,Integracion de IoT Industrial,Marcela Carrasco,12
+9780000000354,Automatizacion de Almacen y Logistica,Leonardo Pino,5
+9780000000355,Inteligencia Artificial en Mantenimiento,Valeria Mendez,9
+9780000000356,Simulacion de Produccion en Tiempo Real,Felipe Vargas,7
+9780000000357,Control de Procesos Continuos,Patricia Ramírez,10
+9780000000358,Ingenieria de Sistemas Hidraulicos,Alfonso Delgado,6
+9780000000359,Optimización de Sistemas Neumaticos,Monica Paredes,8
+9780000000360,Electrónica de Potencia Aplicada,Carlos Riquelme,11
+9780000000361,Sistemas de Energía Renovable,Laura Contreras,7
+9780000000362,Medición y Sensores Industriales,Sebastian Ortega,9
+9780000000363,Instrumentación de Procesos Químicos,Isabel Bravo,5
+9780000000364,Control Avanzado de Motores Electricos,Ricardo Medina,10
+9780000000365,Redes de Sensores Industriales,Felipe Benitez,6
+9780000000366,Automatización de Sistemas de Agua,Daniela Morales,8
+9780000000367,Optimización de Redes Eléctricas,Victor Santillan,11
+9780000000368,Simulación de Flujos de Energía,Lorena Cortes,7
+9780000000369,Smart Grid y Redes Inteligentes,Emilio Rojas,9
+9780000000370,Ingenieria de Sistemas Termicos,Paola Alvarez,6
+9780000000371,Control de Procesos de Calor,Alfredo Gonzalez,10
+9780000000372,Analisis de Sistemas de Refrigeracion,Sofia Castillo,8
+9780000000373,Ingenieria de Fluidos Modernos,Raul Escobar,12
+9780000000374,Optimización de Plantas de Tratamiento,Daniela Pineda,5
+9780000000375,Sistemas de Filtración Avanzada,Esteban Villalba,9
+9780000000376,Instrumentacion y Control de Calidad,Claudia Molina,7
+9780000000377,Procesos Químicos Industriales,Felipe Araya,10
+9780000000378,Simulacion de Procesos Químicos,Patricia Sanchez,6
+9780000000379,Ingenieria de Materiales Modernos,Andres Villanueva,8
+9780000000380,Propiedades Mecánicas de Materiales,Camila Morales,11
+9780000000381,Materiales Compuestos en Ingenieria,Hector Rojas,7
+9780000000382,Nanotecnologia Aplicada,Mariana Paredes,9
+9780000000383,Procesos Metalurgicos Modernos,Daniel Santillan,6
+9780000000384,Ingenieria de Polimeros,Alfonso Bravo,10
+9780000000385,Ingenieria de Ceramicos,Patricia Villanueva,8
+9780000000386,Procesos de Fabricacion Avanzados,Juan Pablo Cortes,12
+9780000000387,Ingenieria de Superficies y Recubrimientos,Alejandra Soto,5
+9780000000388,Control y Calidad de Soldadura,Victor Maturana,9
+9780000000389,Tecnologia de Manufactura Additiva,Daniela Carrillo,7
+9780000000390,Impresion 3D en Ingenieria,Emilio Bravo,10
+9780000000391,Optimización de Procesos Productivos,Lorena Vega,6
+9780000000392,Analisis de Capacidad de Produccion,Ricardo Pizarro,8
+9780000000393,Simulacion de Plantas Industriales,Felipe Camacho,11
+9780000000394,Ingenieria de Procesos de Alimentos,Claudia Rojas,7
+9780000000395,Automatizacion en la Industria Alimentaria,Andres Villanueva,9
+9780000000396,Sistemas de Control en Produccion de Alimentos,Camila Morales,6
+9780000000397,Calidad y Seguridad Alimentaria,Hector Rivas,10
+9780000000398,Trazabilidad en la Cadena Alimentaria,Daniela Fuentes,8
+9780000000399,Innovacion en Procesamiento de Alimentos,Patricio Salinas,6
+9780000000400,Gestion Integral de Plantas Alimentarias,Valentina Herrera,11
+9780000000401,Fundamentos de Ingenieria Aeroespacial,Alberto Riquelme,8
+9780000000402,Dinamica de Vuelo Moderna,Veronica Arancibia,6
+9780000000403,Sistemas de Navegacion Aeronautica,Julian Valdes,10
+9780000000404,Propulsion Aeroespacial Aplicada,Camila Mardones,7
+9780000000405,Aerodinamica Computacional,Hector Sepulveda,9
+9780000000406,Diseno de Aeronaves Contemporaneas,Marina Escudero,5
+9780000000407,Materiales Aeroespaciales Avanzados,Raul Quintana,11
+9780000000408,Control de Satelites y Orbitas,Paula Villarroel,8
+9780000000409,Tecnologia Espacial para Ingenieros,Fernando Baeza,6
+9780000000410,Sistemas de Lanzamiento Modernos,Valeria Cifuentes,10
+9780000000411,Introduccion a la Oceanografia,Claudio Santibañez,7
+9780000000412,Modelado de Ecosistemas Marinos,Alicia Meneses,9
+9780000000413,Ingenieria Costera Aplicada,Gustavo Villan,5
+9780000000414,Tecnologias para Monitoreo Oceánico,Daniela Arriagada,12
+9780000000415,Recursos Marinos y Sustentabilidad,Ricardo Gallardo,8
+9780000000416,Fundamentos de Geologia Moderna,Monica Arceo,6
+9780000000417,Exploracion Geofisica Digital,Patricio Cornejo,10
+9780000000418,Cartografia y Sistemas Territoriales,Lorena Ugalde,7
+9780000000419,Modelado Geologico Tridimensional,Ignacio Bustos,9
+9780000000420,Analisis de Riesgos Naturales,Carolina Benitez,5
+9780000000421,Ingenieria Minera Contemporanea,Victor Almonte,11
+9780000000422,Procesamiento de Minerales Moderno,Estefania Lagos,8
+9780000000423,Seguridad en Operaciones Mineras,Martin Pavez,6
+9780000000424,Automatizacion de Faenas Mineras,Roxana Mella,10
+9780000000425,Mineria Sustentable e Innovacion,Francisco Neira,7
+9780000000426,Fundamentos de Arquitectura,Elena Gajardo,9
+9780000000427,Diseno Arquitectonico Digital,Cristian Valenzuela,5
+9780000000428,Modelado BIM Profesional,Josefa Carrasco,12
+9780000000429,Urbanismo y Espacios Publicos,Nicolas Araya,8
+9780000000430,Construccion Sustentable Moderna,Marcela Orellana,6
+9780000000431,Ingenieria Estructural Aplicada,Hernan Fuica,10
+9780000000432,Analisis de Estructuras Complejas,Andrea Villaseca,7
+9780000000433,Diseño Sismico Avanzado,Felipe Canales,9
+9780000000434,Materiales para Construccion Moderna,Carla Zuniga,5
+9780000000435,Gestion Integral de Obras,Raul Henríquez,11
+9780000000436,Fundamentos de Derecho Digital,Patricia Valenzuela,8
+9780000000437,Proteccion de Datos Personales,Gabriel Olmos,6
+9780000000438,Regulacion de Tecnologias Emergentes,Monserrat Farias,10
+9780000000439,Contratos Tecnologicos Modernos,Cesar Vergara,7
+9780000000440,Propiedad Intelectual y Software,Daniela Tapia,9
+9780000000441,Introduccion a la Economia Digital,Tomás Moya,5
+9780000000442,Fintech y Transformacion Financiera,Lucia Barrientos,12
+9780000000443,Pagos Electronicos y Seguridad,Bruno Salinas,8
+9780000000444,Banca Digital para Profesionales,Noelia Godoy,6
+9780000000445,Mercados Financieros Globales,Sergio Riquel,10
+9780000000446,Analisis Financiero Cuantitativo,Cecilia Parra,7
+9780000000447,Modelos Econometricos Aplicados,Alvaro Pino,9
+9780000000448,Macroeconomia para la Gestion,Paula Benavides,5
+9780000000449,Microeconomia Empresarial Moderna,Jorge Villarroel,11
+9780000000450,Politicas Publicas e Innovacion,Silvana Toro,8
+9780000000451,Fundamentos de Psicologia Organizacional,Emilia Calderon,6
+9780000000452,Comportamiento Humano en Empresas,Rodrigo Salgado,10
+9780000000453,Gestion del Cambio Organizacional,Catalina Donoso,7
+9780000000454,Bienestar Laboral y Productividad,Matias Venegas,9
+9780000000455,Liderazgo Transformacional Moderno,Natalia Astorga,5
+9780000000456,Coaching Ejecutivo Profesional,Hugo Villagra,12
+9780000000457,Resolucion de Conflictos Laborales,Diana Carvajal,8
+9780000000458,Negociacion Estrategica Avanzada,Emiliano Arredondo,6
+9780000000459,Cultura Organizacional y Talento,Clara Bustamante,10
+9780000000460,Gestion del Desempeño Integral,Alonso Maturana,7
+9780000000461,Fundamentos de Biologia Molecular,Valentina Rojas,9
+9780000000462,Genetica Aplicada Moderna,Cristobal Mena,5
+9780000000463,Biotecnologia para Ingenieros,Alejandra Pinto,11
+9780000000464,Cultivos Celulares y Aplicaciones,Fabian Rojas,8
+9780000000465,Bioquimica Estructural Moderna,Paola Vergara,6
+9780000000466,Ecologia y Conservacion Ambiental,Rafael Salas,10
+9780000000467,Biodiversidad y Desarrollo Sostenible,Marisol Urrutia,7
+9780000000468,Gestion Ambiental de Proyectos,Andres Villacis,9
+9780000000469,Evaluacion de Impacto Ambiental,Daniela Ponce,5
+9780000000470,Restauracion de Ecosistemas,Nicolas Fuenzalida,12
+9780000000471,Fundamentos de Quimica Organica,Patricio Astudillo,8
+9780000000472,Quimica Inorganica Aplicada,Marcela Varela,6
+9780000000473,Analisis Instrumental Moderno,German Albornoz,10
+9780000000474,Cromatografia y Espectrometria,Silvia Barrera,7
+9780000000475,Quimica Industrial Contemporanea,Oscar Donoso,9
+9780000000476,Introduccion a la Fisica Moderna,Andrea Neira,5
+9780000000477,Mecanica Clasica Aplicada,Fernando Carrillo,11
+9780000000478,Electromagnetismo para Ingenieria,Valeria Oliva,8
+9780000000479,Termodinamica Avanzada,Carlos Urrutia,6
+9780000000480,Fisica de Materiales Modernos,Monica Sanhueza,10
+9780000000481,Fundamentos de Estadistica Inferencial,Joaquin Prado,7
+9780000000482,Analisis Probabilistico Avanzado,Lorena Figueroa,9
+9780000000483,Modelos de Regresion Aplicados,Ignacio Mella,5
+9780000000484,Metodos Multivariantes Modernos,Daniela Salazar,12
+9780000000485,Ciencia de Datos Estadistica,Victor Gatica,8
+9780000000486,Investigacion Social Cuantitativa,Paula Astorga,6
+9780000000487,Metodos Cualitativos de Analisis,Ricardo Olguin,10
+9780000000488,Sociologia de las Organizaciones,Mariana Quezada,7
+9780000000489,Cambios Sociales y Tecnologia,Felipe Rojas,9
+9780000000490,Demografia y Estudios Poblacionales,Camila Barriga,5
+9780000000491,Historia de las Civilizaciones,Alberto San Martin,11
+9780000000492,Historia Contemporanea Global,Veronica Matus,8
+9780000000493,Geopolitica y Relaciones Internacionales,Sebastian Jara,6
+9780000000494,Cultura y Patrimonio Mundial,Carolina Ossa,10
+9780000000495,Historia Economica Moderna,Ignacio Valdebenito,7
+9780000000496,Teoria Politica Contemporanea,Monica Tapia,9
+9780000000497,Gobernanza y Desarrollo Institucional,Ruben Sepulveda,5
+9780000000498,Administracion Publica Moderna,Paula Alarcon,12
+9780000000499,Innovacion en Politicas Sociales,Francisco Molina,8
+9780000000500,Transformacion Digital del Estado,Daniela Bustos,6
+9780000000501,Fundamentos de Inteligencia Artificial Simbolica,Alvaro Contreras,9
+9780000000502,Aprendizaje Profundo Avanzado,Daniela Moya,7
+9780000000503,Redes Neuronales Convolucionales,Victor Salinas,11
+9780000000504,Modelos Generativos Modernos,Carla Fuentes,6
+9780000000505,Transformers en Procesamiento de Lenguaje,Andres Villalobos,10
+9780000000506,Optimización Estocástica Aplicada,Paula Arriagada,8
+9780000000507,Algoritmos Evolutivos,Francisco Rojas,5
+9780000000508,Computacion Evolutiva y Bioinspirada,Monica Pizarro,12
+9780000000509,Sistemas Multiagente Inteligentes,Ignacio Herrera,7
+9780000000510,Robots Autónomos Inteligentes,Catalina Bravo,9
+9780000000511,Aprendizaje por Refuerzo Aplicado,Sebastian Medina,6
+9780000000512,IA Explicable y Transparente,Valeria Cifuentes,10
+9780000000513,Etica en Inteligencia Artificial,Raul Mendez,8
+9780000000514,Sistemas Cognitivos Artificiales,Daniela Riquelme,5
+9780000000515,Computacion Neuromorfica,Alberto Villanueva,11
+9780000000516,Procesamiento del Lenguaje Natural Avanzado,Mariana Salgado,7
+9780000000517,Analisis Semantico Computacional,Felipe Contreras,9
+9780000000518,Reconocimiento de Voz Moderno,Carolina Mena,6
+9780000000519,Sistemas de Dialogo Inteligente,Oscar Paredes,10
+9780000000520,IA en Medicina Diagnostica,Paula Valdes,8
+9780000000521,IA en Educacion Personalizada,Victor Araya,5
+9780000000522,IA en Finanzas Cuantitativas,Claudia Rojas,12
+9780000000523,Automatizacion de Decisiones Empresariales,Andres Soto,7
+9780000000524,Sistemas Expertos Modernos,Daniela Fuentes,9
+9780000000525,Representacion del Conocimiento,Ignacio Moya,6
+9780000000526,Razonamiento Automatico,Monica Salinas,10
+9780000000527,Planificacion Automatizada,Francisco Pizarro,8
+9780000000528,Agentes Inteligentes Distribuidos,Carla Mendez,5
+9780000000529,IA para Videojuegos Modernos,Sebastian Fuentes,11
+9780000000530,Simulacion de Mundos Virtuales,Valeria Herrera,7
+9780000000531,Computacion Grafica Avanzada,Alvaro Moya,9
+9780000000532,Renderizado en Tiempo Real,Daniela Salinas,6
+9780000000533,Motores de Videojuegos Modernos,Victor Contreras,10
+9780000000534,Fisica para Videojuegos,Paula Riquelme,8
+9780000000535,Animacion Procedural,Francisco Villalobos,5
+9780000000536,Realidad Mixta Inmersiva,Carolina Arriagada,12
+9780000000537,Interaccion Humano Computador,Ignacio Salgado,7
+9780000000538,Experiencia de Usuario Avanzada,Monica Herrera,9
+9780000000539,Interfaces Cerebro Computadora,Andres Moya,6
+9780000000540,Computacion Ubicua e IoT,Daniela Rojas,10
+9780000000541,Sistemas Embebidos Inteligentes,Victor Fuentes,8
+9780000000542,Microcontroladores Avanzados,Paula Contreras,5
+9780000000543,Arquitectura de Sistemas Embebidos,Francisco Moya,11
+9780000000544,Sensores Inteligentes IoT,Carla Salinas,7
+9780000000545,Redes de Sensores Inalambricos,Ignacio Riquelme,9
+9780000000546,Computacion en el Borde (Edge),Monica Fuentes,6
+9780000000547,Cloud Computing Escalable,Alvaro Rojas,10
+9780000000548,Arquitecturas Serverless,Daniela Herrera,8
+9780000000549,Microservicios Avanzados,Victor Salgado,5
+9780000000550,Contenedores y Orquestacion,Paula Moya,12
+9780000000551,Kubernetes para Produccion,Francisco Contreras,7
+9780000000552,Docker Avanzado,Carla Riquelme,9
+9780000000553,DevOps y Cultura Agile,Ignacio Fuentes,6
+9780000000554,Integracion Continua Avanzada,Monica Arriagada,10
+9780000000555,Entrega Continua y Automatizacion,Andres Herrera,8
+9780000000556,Observabilidad en Sistemas Distribuidos,Daniela Salgado,5
+9780000000557,Monitoreo y Logging Avanzado,Victor Moya,11
+9780000000558,Seguridad en la Nube,Paula Fuentes,7
+9780000000559,Ciberseguridad Defensiva,Francisco Rojas,9
+9780000000560,Hacking Etico Avanzado,Carla Moya,6
+9780000000561,Analisis Forense Digital,Ignacio Salinas,10
+9780000000562,Criptografia Moderna,Monica Contreras,8
+9780000000563,Seguridad de Redes,Alvaro Fuentes,5
+9780000000564,Proteccion de Infraestructuras Criticas,Daniela Riquelme,12
+9780000000565,Gestion de Riesgos de TI,Victor Herrera,7
+9780000000566,Auditoria de Sistemas,Paula Salgado,9
+9780000000567,Normativas de Seguridad ISO,Francisco Moya,6
+9780000000568,Privacidad y Proteccion de Datos,Carla Rojas,10
+9780000000569,Gobernanza de Datos,Ignacio Contreras,8
+9780000000570,Arquitectura de Datos Empresarial,Monica Fuentes,5
+9780000000571,Big Data Distribuido,Alvaro Salinas,11
+9780000000572,Lakes de Datos Modernos,Daniela Moya,7
+9780000000573,Procesamiento de Streaming de Datos,Victor Contreras,9
+9780000000574,Analisis Predictivo Empresarial,Paula Riquelme,6
+9780000000575,Visualizacion Avanzada de Datos,Francisco Fuentes,10
+9780000000576,Power BI y Tableau Profesional,Carla Herrera,8
+9780000000577,Ciencia de Datos Aplicada,Ignacio Moya,5
+9780000000578,Estadistica Computacional,Monica Salinas,12
+9780000000579,Machine Learning Practico,Alvaro Rojas,7
+9780000000580,Deep Learning Aplicado,Daniela Contreras,9
+9780000000581,IA en Negocios Modernos,Victor Fuentes,6
+9780000000582,Automatizacion Inteligente de Procesos,Paula Moya,10
+9780000000583,Transformacion Digital Empresarial,Francisco Riquelme,8
+9780000000584,Estrategias de Innovacion Tecnologica,Carla Salinas,5
+9780000000585,Gestion de Proyectos Digitales,Ignacio Herrera,11
+9780000000586,Metodologias Agiles Avanzadas,Monica Fuentes,7
+9780000000587,Scrum Master Profesional,Alvaro Contreras,9
+9780000000588,Kanban y Flujo de Trabajo,Daniela Moya,6
+9780000000589,Liderazgo en Equipos Tecnologicos,Victor Salgado,10
+9780000000590,Comunicacion Efectiva en TI,Paula Rojas,8
+9780000000591,Negociacion de Proyectos Tecnologicos,Francisco Herrera,5
+9780000000592,Emprendimiento Digital,Carla Moya,12
+9780000000593,Startups Tecnologicas Modernas,Ignacio Fuentes,7
+9780000000594,Innovacion y Modelos de Negocio,Monica Riquelme,9
+9780000000595,Economia Digital Global,Alvaro Salinas,6
+9780000000596,Finanzas para Ingenieros,Daniela Herrera,10
+9780000000597,Contabilidad Basica para TI,Victor Moya,8
+9780000000598,Marketing Digital Avanzado,Paula Contreras,5
+9780000000599,Analitica de Negocios,Francisco Rojas,11
+9780000000600,Transformacion Organizacional Digital,Carla Salinas,7
+9780000000601,Introduccion a Sistemas Operativos Distribuidos,Alvaro Moya,8
+9780000000602,Arquitecturas de Computacion Paralela,Daniela Fuentes,6
+9780000000603,Modelos de Consistencia en Sistemas Distribuidos,Victor Riquelme,10
+9780000000604,Algoritmos Distribuidos Avanzados,Carla Herrera,7
+9780000000605,Sincronizacion en Sistemas Distribuidos,Ignacio Salgado,9
+9780000000606,Tolerancia a Fallos en Computacion,Monica Rojas,5
+9780000000607,Replicacion de Datos Distribuidos,Francisco Moya,11
+9780000000608,Arquitectura de Microkernels,Paula Contreras,8
+9780000000609,Sistemas Operativos Modernos,Alvaro Salinas,6
+9780000000610,Administracion de Memoria Avanzada,Daniela Moya,10
+9780000000611,Planificacion de Procesos,Victor Fuentes,7
+9780000000612,Sistemas de Archivos Distribuidos,Carla Riquelme,9
+9780000000613,Virtualizacion de Sistemas Operativos,Ignacio Herrera,5
+9780000000614,Contenedores a Nivel de Sistema,Monica Salgado,11
+9780000000615,Seguridad en Sistemas Operativos,Francisco Rojas,8
+9780000000616,Kernel Linux Internals,Paula Moya,6
+9780000000617,Desarrollo de Kernel Personalizado,Alvaro Contreras,10
+9780000000618,Drivers de Dispositivos Avanzados,Daniela Herrera,7
+9780000000619,Arquitectura x86 y ARM,Victor Salinas,9
+9780000000620,Computacion de Alto Rendimiento HPC,Carla Fuentes,5
+9780000000621,Supercomputacion Moderna,Ignacio Riquelme,11
+9780000000622,Programacion con CUDA Avanzada,Monica Moya,8
+9780000000623,GPU Computing para Ciencia de Datos,Francisco Salgado,6
+9780000000624,Optimizacion de Algoritmos Paralelos,Paula Herrera,10
+9780000000625,Computacion Cientifica Aplicada,Alvaro Rojas,7
+9780000000626,Simulaciones Numericas Avanzadas,Daniela Contreras,9
+9780000000627,Metodos Numericos Computacionales,Victor Moya,5
+9780000000628,Algebra Computacional,Carla Salinas,11
+9780000000629,Calculo Numerico Aplicado,Ignacio Fuentes,8
+9780000000630,Modelado Matemático Computacional,Monica Riquelme,6
+9780000000631,Optimización Convexa Avanzada,Francisco Herrera,10
+9780000000632,Investigacion Operativa Computacional,Paula Moya,7
+9780000000633,Teoria de Juegos Aplicada,Alvaro Salgado,9
+9780000000634,Decision Making Computacional,Daniela Fuentes,5
+9780000000635,Sistemas Inteligentes de Apoyo a la Decision,Victor Riquelme,11
+9780000000636,Analisis de Decisiones Multicriterio,Carla Herrera,8
+9780000000637,Modelos Probabilisticos Avanzados,Ignacio Moya,6
+9780000000638,Inferencia Bayesiana Aplicada,Monica Salinas,10
+9780000000639,Estadistica Computacional Avanzada,Francisco Rojas,7
+9780000000640,Machine Learning Distribuido,Paula Contreras,9
+9780000000641,Deep Learning Escalable,Alvaro Fuentes,5
+9780000000642,Redes Neuronales Generativas,Daniela Moya,11
+9780000000643,Modelos de Difusion en IA,Victor Salgado,8
+9780000000644,IA Multimodal Moderna,Carla Riquelme,6
+9780000000645,Vision por Computador Avanzada,Ignacio Herrera,10
+9780000000646,Procesamiento de Video Inteligente,Monica Fuentes,7
+9780000000647,Reconocimiento de Patrones,Francisco Moya,9
+9780000000648,Sistemas de IA en Tiempo Real,Paula Salinas,5
+9780000000649,Robots Industriales Inteligentes,Alvaro Riquelme,11
+9780000000650,Sistemas Autonomos Avanzados,Daniela Herrera,8
+9780000000651,Movilidad Robotica Inteligente,Victor Moya,6
+9780000000652,Navegacion Autonoma,Carla Fuentes,10
+9780000000653,Percepcion en Robots,Ignacio Salgado,7
+9780000000654,Sistemas Embebidos para Robotica,Monica Riquelme,9
+9780000000655,Control Inteligente de Robots,Francisco Herrera,5
+9780000000656,Interaccion Humano Robot,Paula Moya,11
+9780000000657,Robots Colaborativos Industriales,Alvaro Salinas,8
+9780000000658,Automatizacion Inteligente de Fabrica,Daniela Fuentes,6
+9780000000659,Sistemas Ciberfisicos Avanzados,Victor Riquelme,10
+9780000000660,Industria 5.0 y Futuro,Carla Herrera,7
+9780000000661,Manufactura Inteligente Sostenible,Ignacio Moya,9
+9780000000662,Digital Twins Industriales Avanzados,Monica Salinas,5
+9780000000663,Analitica Industrial en Tiempo Real,Francisco Rojas,11
+9780000000664,Mantenimiento Predictivo Avanzado,Paula Contreras,8
+9780000000665,Optimizacion de Produccion Industrial,Alvaro Fuentes,6
+9780000000666,Logistica Inteligente,Daniela Moya,10
+9780000000667,Cadena de Suministro Digital,Victor Salgado,7
+9780000000668,Planificacion Logistica Avanzada,Carla Riquelme,9
+9780000000669,Distribucion y Almacenamiento Inteligente,Ignacio Herrera,5
+9780000000670,Sistemas de Transporte Automatizados,Monica Fuentes,11
+9780000000671,Redes de Transporte Inteligentes,Francisco Moya,8
+9780000000672,Movilidad Urbana Inteligente,Paula Salinas,6
+9780000000673,Ciudades Inteligentes Sostenibles,Alvaro Riquelme,10
+9780000000674,Infraestructura Digital Urbana,Daniela Herrera,7
+9780000000675,Gobiernos Digitales Modernos,Victor Moya,9
+9780000000676,Servicios Publicos Digitales,Carla Fuentes,5
+9780000000677,Datos Abiertos y Transparencia,Ignacio Salgado,11
+9780000000678,Politicas Publicas Digitales,Monica Riquelme,8
+9780000000679,Transformacion del Estado Digital,Francisco Herrera,6
+9780000000680,Seguridad Nacional Cibernetica,Paula Moya,10
+9780000000681,Defensa Cibernetica Avanzada,Alvaro Salinas,7
+9780000000682,Analisis de Amenazas Digitales,Daniela Fuentes,9
+9780000000683,Inteligencia de Ciberamenazas,Victor Riquelme,5
+9780000000684,Respuesta a Incidentes Ciberneticos,Carla Herrera,11
+9780000000685,Forensia Digital Avanzada,Ignacio Moya,8
+9780000000686,Proteccion de Infraestructuras Criticas,Monica Salinas,6
+9780000000687,Criptografia Aplicada Moderna,Francisco Rojas,10
+9780000000688,Seguridad de Aplicaciones Web,Paula Contreras,7
+9780000000689,DevSecOps en Practica,Alvaro Fuentes,9
+9780000000690,Auditoria de Seguridad Informatica,Daniela Moya,5
+9780000000691,Privacidad y Regulacion Digital,Victor Salgado,11
+9780000000692,Regulacion de IA y Datos,Carla Riquelme,8
+9780000000693,Etica de Sistemas Inteligentes,Ignacio Herrera,6
+9780000000694,Responsabilidad en IA,Monica Fuentes,10
+9780000000695,Impacto Social de la Tecnologia,Francisco Moya,7
+9780000000696,Filosofia de la Computacion,Paula Salinas,9
+9780000000697,Historia de la Informatica,Alvaro Riquelme,5
+9780000000698,Evolucion de los Sistemas Digitales,Daniela Herrera,11
+9780000000699,Innovacion y Futuro Tecnologico,Victor Moya,8
+9780000000700,Transformacion Digital Global,Carla Fuentes,6
+9780000000701,Fundamentos de Redes de Computadoras,Ignacio Salgado,9
+9780000000702,Protocolos de Comunicacion Avanzados,Monica Rojas,7
+9780000000703,Seguridad en Redes Modernas,Francisco Moya,11
+9780000000704,Firewall y Sistemas de Prevencion,Paula Contreras,6
+9780000000705,Redes Inalambricas y Moviles,Alvaro Fuentes,10
+9780000000706,IoT y Comunicaciones Inteligentes,Daniela Moya,8
+9780000000707,Arquitectura de Redes Empresariales,Victor Salgado,5
+9780000000708,Redes Definidas por Software (SDN),Carla Riquelme,12
+9780000000709,Virtualizacion de Redes Avanzada,Ignacio Herrera,7
+9780000000710,Cloud Networking Moderno,Monica Fuentes,9
+9780000000711,Optimización de Redes,Francisco Rojas,6
+9780000000712,Monitorizacion de Redes Empresariales,Paula Moya,10
+9780000000713,Tecnologias de Comunicacion 5G,Alvaro Riquelme,8
+9780000000714,Redes Satelitales y Espaciales,Daniela Herrera,5
+9780000000715,Protocolos de Enrutamiento Avanzados,Victor Moya,11
+9780000000716,Seguridad en Redes Inalambricas,Carla Fuentes,7
+9780000000717,VPN y Conexiones Seguras,Ignacio Salgado,9
+9780000000718,Redes para Big Data,Monica Rojas,6
+9780000000719,Computacion en el Borde y Redes,Francisco Moya,10
+9780000000720,Redes Industriales y SCADA,Paula Contreras,8
+9780000000721,Internet de las Cosas Avanzado,Alvaro Fuentes,5
+9780000000722,Protocolos IoT y Seguridad,Daniela Moya,12
+9780000000723,Redes de Sensores y Automatizacion,Victor Salgado,7
+9780000000724,Smart Cities y Comunicacion,Carla Riquelme,9
+9780000000725,Redes de Comunicacion Criticas,Ignacio Herrera,6
+9780000000726,Analitica de Tráfico de Redes,Monica Fuentes,10
+9780000000727,Deteccion de Intrusos en Redes,Francisco Rojas,8
+9780000000728,Seguridad en Redes Empresariales,Paula Moya,5
+9780000000729,Auditoria de Redes,Alvaro Riquelme,11
+9780000000730,Protocolos de Seguridad Avanzados,Daniela Herrera,7
+9780000000731,Redes y Servicios en la Nube,Victor Moya,9
+9780000000732,Arquitecturas de Comunicacion Distribuida,Carla Fuentes,6
+9780000000733,Sistemas de Comunicacion Criticos,Ignacio Salgado,10
+9780000000734,Redes de Alta Disponibilidad,Monica Rojas,8
+9780000000735,Redes y Comunicacion Optima,Francisco Moya,5
+9780000000736,Redes para Aplicaciones en Tiempo Real,Paula Contreras,12
+9780000000737,Seguridad en Comunicaciones Moviles,Alvaro Fuentes,7
+9780000000738,Redes de Proxima Generacion,Daniela Moya,9
+9780000000739,Tecnologias Emergentes en Redes,Victor Salgado,6
+9780000000740,Protocolos de Comunicacion IoT,Carla Riquelme,10
+9780000000741,Redes y Telecomunicaciones Avanzadas,Ignacio Herrera,8
+9780000000742,Servicios de Red Gestionados,Monica Fuentes,5
+9780000000743,Monitorizacion y Analitica de Redes,Francisco Rojas,11
+9780000000744,Redes Definidas por Software Empresarial,Paula Moya,7
+9780000000745,Automatizacion de Redes,Alvaro Riquelme,9
+9780000000746,Arquitectura y Diseño de Redes,Daniela Herrera,6
+9780000000747,Redes Seguras en Entornos Criticos,Victor Moya,10
+9780000000748,Tecnologias de Red para Big Data,Carla Fuentes,8
+9780000000749,Redes y Cloud Computing,Ignacio Salgado,5
+9780000000750,Transformacion Digital de Redes,Monica Rojas,12
+9780000000751,Analisis de Protocolos Modernos,Francisco Moya,7
+9780000000752,Redes de Comunicacion Inteligentes,Paula Contreras,9
+9780000000753,Integracion de Redes Empresariales,Alvaro Fuentes,6
+9780000000754,Redes Industriales Avanzadas,Daniela Moya,10
+9780000000755,Redes de Alta Velocidad,Victor Salgado,8
+9780000000756,Redes y Seguridad en Tiempo Real,Carla Riquelme,5
+9780000000757,Protocolos Criptograficos en Redes,Ignacio Herrera,11
+9780000000758,Redes para Comunicacion Critica,Monica Fuentes,7
+9780000000759,Automatizacion y Gestion de Redes,Francisco Rojas,9
+9780000000760,Redes de Nueva Generacion,Paula Moya,6
+9780000000761,Computacion en Redes Distribuidas,Alvaro Riquelme,10
+9780000000762,Redes y Servicios en la Nube Empresarial,Daniela Herrera,8
+9780000000763,Analitica de Redes Inteligentes,Victor Moya,5
+9780000000764,Seguridad Avanzada en Redes Corporativas,Carla Fuentes,12
+9780000000765,Monitorizacion Proactiva de Redes,Ignacio Salgado,7
+9780000000766,Redes para Industria 4.0,Monica Rojas,9
+9780000000767,Optimización de Redes de Comunicacion,Francisco Moya,6
+9780000000768,Redes y Transformacion Digital,Paula Contreras,10
+9780000000769,Redes Seguras para IoT,Alvaro Fuentes,8
+9780000000770,Redes y Comunicaciones Criticas Modernas,Daniela Moya,5
+9780000000771,Redes Inteligentes para Ciudades,Victor Salgado,11
+9780000000772,Tecnologias de Comunicacion Avanzadas,Carla Riquelme,7
+9780000000773,Redes Empresariales y Cloud,Ignacio Herrera,9
+9780000000774,Redes de Proximidad y Sensores,Monica Fuentes,6
+9780000000775,Redes de Comunicacion para Industria,Francisco Rojas,10
+9780000000776,Redes Definidas por Software Modernas,Paula Moya,8
+9780000000777,Automatizacion de Redes Inteligentes,Alvaro Riquelme,5
+9780000000778,Redes y Analitica de Datos,Daniela Herrera,12
+9780000000779,Seguridad en Redes Industriales,Victor Moya,7
+9780000000780,Redes y Comunicaciones Globales,Carla Fuentes,9
+9780000000781,Redes y Comunicacion Empresarial,Ignacio Salgado,6
+9780000000782,Arquitectura de Redes Modernas,Monica Rojas,10
+9780000000783,Redes de Comunicacion Critica,Francisco Moya,8
+9780000000784,Protocolos y Seguridad en Redes,Paula Contreras,5
+9780000000785,Redes y Servicios Cloud,Alvaro Fuentes,11
+9780000000786,Monitorizacion Avanzada de Redes,Daniela Moya,7
+9780000000787,Redes Inalambricas Inteligentes,Victor Salgado,9
+9780000000788,Redes Industriales Conectadas,Carla Riquelme,6
+9780000000789,Redes Distribuidas y Escalables,Ignacio Herrera,10
+9780000000790,Redes y Comunicaciones en Tiempo Real,Monica Fuentes,8
+9780000000791,Redes de Alta Confiabilidad,Francisco Rojas,5
+9780000000792,Automatizacion de Redes Corporativas,Paula Moya,12
+9780000000793,Redes y Analitica en Tiempo Real,Alvaro Riquelme,7
+9780000000794,Seguridad y Proteccion de Redes,Daniela Herrera,9
+9780000000795,Redes Definidas por Software Avanzadas,Victor Moya,6
+9780000000796,Arquitecturas de Comunicacion Empresarial,Carla Fuentes,10
+9780000000797,Redes y Telecomunicaciones Criticas,Ignacio Salgado,8
+9780000000798,Optimización y Gestion de Redes,Monica Rojas,5
+9780000000799,Redes Inteligentes para Industria,Francisco Moya,11
+9780000000800,Transformacion Digital de Redes Empresariales,Paula Contreras,7
+9780000000801,Fundamentos de Bases de Datos,Alvaro Fuentes,9
+9780000000802,Modelado de Datos Relacional,Daniela Moya,7
+9780000000803,SQL Avanzado para Profesionales,Victor Salgado,11
+9780000000804,Optimización de Consultas SQL,Carla Riquelme,6
+9780000000805,Administracion de Bases de Datos,Ignacio Herrera,10
+9780000000806,Bases de Datos Distribuidas,Monica Fuentes,8
+9780000000807,NoSQL y Big Data,Francisco Rojas,5
+9780000000808,Bases de Datos Documentales,Paula Moya,12
+9780000000809,Almacenamiento en Memoria,Alvaro Riquelme,7
+9780000000810,Replicación y Alta Disponibilidad,Daniela Herrera,9
+9780000000811,Seguridad en Bases de Datos,Victor Moya,6
+9780000000812,Backup y Recuperacion Avanzada,Carla Fuentes,10
+9780000000813,Optimización de Indexes,Ignacio Salgado,8
+9780000000814,Bases de Datos Analiticas,Monica Riquelme,5
+9780000000815,Data Warehousing Moderno,Francisco Herrera,11
+9780000000816,ETL y Transformacion de Datos,Paula Salinas,7
+9780000000817,Integración de Datos Empresariales,Alvaro Salinas,9
+9780000000818,Modelado Dimensional,Daniela Fuentes,6
+9780000000819,Bases de Datos en la Nube,Victor Riquelme,10
+9780000000820,Optimización de Consultas Analiticas,Carla Herrera,8
+9780000000821,Bases de Datos Relacionales Modernas,Ignacio Moya,5
+9780000000822,SQL y Procedimientos Almacenados,Monica Salinas,12
+9780000000823,Triggers y Vistas Avanzadas,Francisco Rojas,7
+9780000000824,Transacciones y Concurrencia,Paula Contreras,9
+9780000000825,Bases de Datos Multimodelo,Alvaro Fuentes,6
+9780000000826,Graph Databases Aplicadas,Daniela Moya,10
+9780000000827,Redes y Bases de Datos,Victor Salgado,8
+9780000000828,Bases de Datos para Aplicaciones Web,Carla Riquelme,5
+9780000000829,Bases de Datos NoSQL Escalables,Ignacio Herrera,11
+9780000000830,Almacenamiento y Recuperacion de Datos,Monica Fuentes,7
+9780000000831,Optimización de Performance en BD,Francisco Rojas,9
+9780000000832,Bases de Datos Transaccionales,Paula Moya,6
+9780000000833,Bases de Datos Distribuidas Avanzadas,Alvaro Riquelme,10
+9780000000834,Replicación y Consistencia,Daniela Herrera,8
+9780000000835,Seguridad de Datos Empresariales,Victor Moya,5
+9780000000836,Auditoria y Cumplimiento en BD,Carla Fuentes,12
+9780000000837,Almacenamiento en Columnas,Ignacio Salgado,7
+9780000000838,Procesamiento Analitico en Tiempo Real,Monica Riquelme,9
+9780000000839,Optimización de Consultas Complejas,Francisco Herrera,6
+9780000000840,Bases de Datos en Entornos Cloud,Paula Salinas,10
+9780000000841,Administración de Clústeres de BD,Alvaro Salinas,8
+9780000000842,Escalabilidad Horizontal y Vertical,Daniela Fuentes,5
+9780000000843,Data Lakes y Almacenamiento Masivo,Victor Riquelme,11
+9780000000844,Procesamiento de Datos Masivos,Carla Herrera,7
+9780000000845,Integridad de Datos y Auditoria,Ignacio Moya,9
+9780000000846,Modelado de Datos para Analytics,Monica Salinas,6
+9780000000847,Data Governance y Calidad de Datos,Francisco Rojas,10
+9780000000848,Bases de Datos para Inteligencia Artificial,Paula Contreras,8
+9780000000849,Administracion de Datos No Estructurados,Alvaro Fuentes,5
+9780000000850,Optimización de Consultas Distribuidas,Daniela Moya,12
+9780000000851,Almacenamiento y Recuperacion de Datos Masivos,Victor Salgado,7
+9780000000852,Redes y Bases de Datos Distribuidas,Carla Riquelme,9
+9780000000853,Bases de Datos Empresariales,Ignacio Herrera,6
+9780000000854,Analítica de Datos Avanzada,Monica Fuentes,10
+9780000000855,Machine Learning con Bases de Datos,Francisco Rojas,8
+9780000000856,Data Science y Almacenamiento,Paula Moya,5
+9780000000857,Procesamiento Distribuido de Datos,Alvaro Riquelme,11
+9780000000858,Bases de Datos y Cloud Computing,Daniela Herrera,7
+9780000000859,SQL y NoSQL para Desarrolladores,Victor Moya,9
+9780000000860,Optimización de Datos en la Nube,Carla Fuentes,6
+9780000000861,Administración de Bases de Datos Escalables,Ignacio Salgado,10
+9780000000862,Seguridad y Backup Avanzados,Monica Riquelme,8
+9780000000863,Bases de Datos Relacionales y NoSQL,Francisco Herrera,5
+9780000000864,Procesamiento de Transacciones Distribuidas,Paula Salinas,12
+9780000000865,Data Warehousing y Analytics,Alvaro Salinas,7
+9780000000866,Big Data y Bases de Datos,Daniela Fuentes,9
+9780000000867,Integración de Datos Empresariales,Victor Riquelme,6
+9780000000868,Bases de Datos para Aplicaciones Criticas,Carla Herrera,10
+9780000000869,SQL Avanzado y Procedimientos,Ignacio Moya,8
+9780000000870,Optimización y Performance de Bases de Datos,Monica Salinas,5
+9780000000871,Bases de Datos para Inteligencia Empresarial,Francisco Rojas,11
+9780000000872,Data Lakes y Procesamiento Distribuido,Paula Contreras,7
+9780000000873,Modelado de Datos Complejo,Alvaro Fuentes,9
+9780000000874,Bases de Datos No Relacionales,Daniela Moya,6
+9780000000875,Integración de Datos en Tiempo Real,Victor Salgado,10
+9780000000876,Optimización de Consultas Masivas,Carla Riquelme,8
+9780000000877,Procesamiento Analítico Distribuido,Ignacio Herrera,5
+9780000000878,Bases de Datos para Aplicaciones Web,Monica Fuentes,12
+9780000000879,Seguridad y Auditoría de Datos,Francisco Rojas,7
+9780000000880,Bases de Datos Modernas y Cloud,Paula Salinas,9
+9780000000881,Data Science con SQL y NoSQL,Alvaro Salinas,6
+9780000000882,Bases de Datos en Arquitecturas Microservicios,Daniela Fuentes,10
+9780000000883,Procesamiento en Tiempo Real y Bases de Datos,Victor Riquelme,8
+9780000000884,Optimización de Datos para Machine Learning,Carla Herrera,5
+9780000000885,Bases de Datos Distribuidas para Analytics,Ignacio Moya,11
+9780000000886,Gestión de Datos Empresariales,Monica Salinas,7
+9780000000887,Bases de Datos NoSQL Escalables,Francisco Rojas,9
+9780000000888,Integración de Datos y ETL Avanzado,Paula Contreras,6
+9780000000889,Administración y Optimización de Bases de Datos,Alvaro Fuentes,10
+9780000000890,Bases de Datos para Inteligencia Artificial Avanzada,Daniela Moya,8
+9780000000891,Procesamiento Distribuido de Datos Masivos,Victor Salgado,5
+9780000000892,Seguridad en Bases de Datos Empresariales,Carla Riquelme,12
+9780000000893,Big Data y Bases de Datos Distribuidas,Ignacio Herrera,7
+9780000000894,Analítica Avanzada de Bases de Datos,Monica Fuentes,9
+9780000000895,Data Governance y Gestión de Datos,Francisco Rojas,6
+9780000000896,Bases de Datos para Aplicaciones Criticas,Paula Salinas,10
+9780000000897,Modelado y Diseño de Sistemas Distribuidos,Alvaro Fuentes,7
+9780000000898,Arquitecturas de Microservicios,Daniela Moya,9
+9780000000899,Optimización de Aplicaciones Empresariales,Victor Salgado,6
+9780000000900,Seguridad y Protección de Sistemas Críticos,Carla Riquelme,10
+9780000000901,Fundamentos de Sistemas Distribuidos Nivel 1,Alvaro Fuentes,9
+9780000000902,Computacion en la Nube Avanzada Nivel 2,Daniela Moya,10
+9780000000903,Arquitecturas Escalables Nivel 3,Victor Salgado,11
+9780000000904,Microservicios y Backend Nivel 4,Carla Riquelme,12
+9780000000905,Ingenieria de Software Avanzada Nivel 5,Ignacio Herrera,1
+9780000000906,Patrones de Arquitectura Nivel 1,Monica Fuentes,2
+9780000000907,Sistemas de Alta Disponibilidad Nivel 2,Francisco Rojas,3
+9780000000908,Optimizacion de Sistemas Nivel 3,Paula Moya,4
+9780000000909,Seguridad Informatica Avanzada Nivel 4,Alvaro Fuentes,5
+9780000000910,Analitica de Sistemas Nivel 5,Daniela Moya,6
+9780000000911,DevOps y Automatizacion Nivel 1,Victor Salgado,7
+9780000000912,Infraestructura como Codigo Nivel 2,Carla Riquelme,8
+9780000000913,Programacion Concurrente Nivel 3,Ignacio Herrera,9
+9780000000914,Sistemas en Tiempo Real Nivel 4,Monica Fuentes,10
+9780000000915,Computacion Escalable Nivel 5,Francisco Rojas,11
+9780000000916,Big Data Engineering Nivel 1,Paula Moya,12
+9780000000917,Data Analytics Avanzado Nivel 2,Alvaro Fuentes,1
+9780000000918,Machine Learning Engineering Nivel 3,Daniela Moya,2
+9780000000919,Inteligencia Artificial Aplicada Nivel 4,Victor Salgado,3
+9780000000920,Redes y Comunicaciones Avanzadas Nivel 5,Carla Riquelme,4
+9780000000921,Fundamentos de Sistemas Distribuidos Nivel 2,Ignacio Herrera,5
+9780000000922,Computacion en la Nube Avanzada Nivel 3,Monica Fuentes,6
+9780000000923,Arquitecturas Escalables Nivel 4,Francisco Rojas,7
+9780000000924,Microservicios y Backend Nivel 5,Paula Moya,8
+9780000000925,Ingenieria de Software Avanzada Nivel 1,Alvaro Fuentes,9
+9780000000926,Patrones de Arquitectura Nivel 2,Daniela Moya,10
+9780000000927,Sistemas de Alta Disponibilidad Nivel 3,Victor Salgado,11
+9780000000928,Optimizacion de Sistemas Nivel 4,Carla Riquelme,12
+9780000000929,Seguridad Informatica Avanzada Nivel 5,Ignacio Herrera,1
+9780000000930,Analitica de Sistemas Nivel 1,Monica Fuentes,2
+9780000000931,DevOps y Automatizacion Nivel 2,Francisco Rojas,3
+9780000000932,Infraestructura como Codigo Nivel 3,Paula Moya,4
+9780000000933,Programacion Concurrente Nivel 4,Alvaro Fuentes,5
+9780000000934,Sistemas en Tiempo Real Nivel 5,Daniela Moya,6
+9780000000935,Computacion Escalable Nivel 1,Victor Salgado,7
+9780000000936,Big Data Engineering Nivel 2,Carla Riquelme,8
+9780000000937,Data Analytics Avanzado Nivel 3,Ignacio Herrera,9
+9780000000938,Machine Learning Engineering Nivel 4,Monica Fuentes,10
+9780000000939,Inteligencia Artificial Aplicada Nivel 5,Francisco Rojas,11
+9780000000940,Redes y Comunicaciones Avanzadas Nivel 1,Paula Moya,12
+9780000000941,Fundamentos de Sistemas Distribuidos Nivel 3,Alvaro Fuentes,1
+9780000000942,Computacion en la Nube Avanzada Nivel 4,Daniela Moya,2
+9780000000943,Arquitecturas Escalables Nivel 5,Victor Salgado,3
+9780000000944,Microservicios y Backend Nivel 1,Carla Riquelme,4
+9780000000945,Ingenieria de Software Avanzada Nivel 2,Ignacio Herrera,5
+9780000000946,Patrones de Arquitectura Nivel 3,Monica Fuentes,6
+9780000000947,Sistemas de Alta Disponibilidad Nivel 4,Francisco Rojas,7
+9780000000948,Optimizacion de Sistemas Nivel 5,Paula Moya,8
+9780000000949,Seguridad Informatica Avanzada Nivel 1,Alvaro Fuentes,9
+9780000000950,Analitica de Sistemas Nivel 2,Daniela Moya,10
+9780000000951,DevOps y Automatizacion Nivel 3,Victor Salgado,11
+9780000000952,Infraestructura como Codigo Nivel 4,Carla Riquelme,12
+9780000000953,Programacion Concurrente Nivel 5,Ignacio Herrera,1
+9780000000954,Sistemas en Tiempo Real Nivel 1,Monica Fuentes,2
+9780000000955,Computacion Escalable Nivel 2,Francisco Rojas,3
+9780000000956,Big Data Engineering Nivel 3,Paula Moya,4
+9780000000957,Data Analytics Avanzado Nivel 4,Alvaro Fuentes,5
+9780000000958,Machine Learning Engineering Nivel 5,Daniela Moya,6
+9780000000959,Inteligencia Artificial Aplicada Nivel 1,Victor Salgado,7
+9780000000960,Redes y Comunicaciones Avanzadas Nivel 2,Carla Riquelme,8
+9780000000961,Fundamentos de Sistemas Distribuidos Nivel 4,Ignacio Herrera,9
+9780000000962,Computacion en la Nube Avanzada Nivel 5,Monica Fuentes,10
+9780000000963,Arquitecturas Escalables Nivel 1,Francisco Rojas,11
+9780000000964,Microservicios y Backend Nivel 2,Paula Moya,12
+9780000000965,Ingenieria de Software Avanzada Nivel 3,Alvaro Fuentes,1
+9780000000966,Patrones de Arquitectura Nivel 4,Daniela Moya,2
+9780000000967,Sistemas de Alta Disponibilidad Nivel 5,Victor Salgado,3
+9780000000968,Optimizacion de Sistemas Nivel 1,Carla Riquelme,4
+9780000000969,Seguridad Informatica Avanzada Nivel 2,Ignacio Herrera,5
+9780000000970,Analitica de Sistemas Nivel 3,Monica Fuentes,6
+9780000000971,DevOps y Automatizacion Nivel 4,Francisco Rojas,7
+9780000000972,Infraestructura como Codigo Nivel 5,Paula Moya,8
+9780000000973,Programacion Concurrente Nivel 1,Alvaro Fuentes,9
+9780000000974,Sistemas en Tiempo Real Nivel 2,Daniela Moya,10
+9780000000975,Computacion Escalable Nivel 3,Victor Salgado,11
+9780000000976,Big Data Engineering Nivel 4,Carla Riquelme,12
+9780000000977,Data Analytics Avanzado Nivel 5,Ignacio Herrera,1
+9780000000978,Machine Learning Engineering Nivel 1,Monica Fuentes,2
+9780000000979,Inteligencia Artificial Aplicada Nivel 2,Francisco Rojas,3
+9780000000980,Redes y Comunicaciones Avanzadas Nivel 3,Paula Moya,4
+9780000000981,Fundamentos de Sistemas Distribuidos Nivel 5,Alvaro Fuentes,5
+9780000000982,Computacion en la Nube Avanzada Nivel 1,Daniela Moya,6
+9780000000983,Arquitecturas Escalables Nivel 2,Victor Salgado,7
+9780000000984,Microservicios y Backend Nivel 3,Carla Riquelme,8
+9780000000985,Ingenieria de Software Avanzada Nivel 4,Ignacio Herrera,9
+9780000000986,Patrones de Arquitectura Nivel 5,Monica Fuentes,10
+9780000000987,Sistemas de Alta Disponibilidad Nivel 1,Francisco Rojas,11
+9780000000988,Optimizacion de Sistemas Nivel 2,Paula Moya,12
+9780000000989,Seguridad Informatica Avanzada Nivel 3,Alvaro Fuentes,1
+9780000000990,Analitica de Sistemas Nivel 4,Daniela Moya,2
+9780000000991,DevOps y Automatizacion Nivel 5,Victor Salgado,3
+9780000000992,Infraestructura como Codigo Nivel 1,Carla Riquelme,4
+9780000000993,Programacion Concurrente Nivel 2,Ignacio Herrera,5
+9780000000994,Sistemas en Tiempo Real Nivel 3,Monica Fuentes,6
+9780000000995,Computacion Escalable Nivel 4,Francisco Rojas,7
+9780000000996,Big Data Engineering Nivel 5,Paula Moya,8
+9780000000997,Data Analytics Avanzado Nivel 1,Alvaro Fuentes,9
+9780000000998,Machine Learning Engineering Nivel 2,Daniela Moya,10
+9780000000999,Inteligencia Artificial Aplicada Nivel 3,Victor Salgado,11
+9780000001000,Redes y Comunicaciones Avanzadas Nivel 4,Carla Riquelme,12
