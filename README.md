@@ -1,4 +1,4 @@
-# Sistema de Biblioteca Indexada en C++
+# Sistema de Biblioteca Indexada
 
 Sistema de gestión de biblioteca de alto rendimiento desarrollado en C++. 
 
