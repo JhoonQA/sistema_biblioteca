@@ -27,16 +27,14 @@ g++ -std=c++17 main_tiempo_pruebas.cpp -o pruebas_tiempo
 Ejecuta el sistema interactivo de la biblioteca:
 
 ```bash
-cd sistema_biblioteca/
-
-./main.cpp
+./sistema_biblioteca
 ```
 
 ### Pruebas de Rendimiento
 Ejecuta el benchmark de mediciones de tiempo e inserción masiva utilizando las semillas de prueba:
 
 ```bash
-./main_pruebas_tiempo.cpp
+./pruebas_tiempo
 ```
 
 ## Observaciones
